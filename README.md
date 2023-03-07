@@ -1,2 +1,2 @@
 # DSA_Problems
-This repository for  coding problems that I used to solve daily.
+This repository is for  coding problems that I used to solve daily.
